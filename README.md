@@ -47,7 +47,7 @@ class Attributes(RaidenShogun503):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,visualstudio,fastapi,js,css,html,java,rust,ruby,swift,docker,bash,fastapi,flask,git,github,linux"/>
+    <img src="https://skillicons.dev/icons?i=py,vscode,visualstudio,fastapi,js,css,html,java,rust,ruby,swift,docker,bash,fastapi,flask,git,github,linux&perline=9"/>
   </a>
 </p>
 
