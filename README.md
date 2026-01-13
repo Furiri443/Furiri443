@@ -11,11 +11,11 @@
 ```python
 from typing import Tuple, List, Dict
 
-class RaidenShogun503:
+class Furiri443:
     pass
 
 
-class Attributes(RaidenShogun503):
+class Attributes(Furiri443):
     
     @property
     def contact(self) -> Tuple[str, str, str]:
@@ -52,7 +52,7 @@ class Attributes(RaidenShogun503):
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=RaidenShogun503&theme=tokyonight&show_icons=true"/>
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=Furiri443&theme=tokyonight&show_icons=true"/>
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
