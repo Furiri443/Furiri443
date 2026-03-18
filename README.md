@@ -2,8 +2,8 @@
 
 
 <p align="center">
-    <img alt="" src=https://img.shields.io/github/stars/RaidenShogun503?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://komarev.com/ghpvc/?username=RaidenShogun503&style=for-the-badge />
+    <img alt="" src=https://img.shields.io/github/stars/Furiri443?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=Furiri443&style=for-the-badge />
 </p>
 
 <h2 align="center">About Me </h2>
