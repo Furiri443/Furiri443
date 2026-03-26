@@ -37,7 +37,7 @@ class Attributes(Furiri443):
             'learning': ['Java']
         }
         specialties = [ 'Backend Developer',]
-        environments = ['VSCode', 'Visual Studio', 'PyCharm', 'IntelliJ IDEA']
+        environments = ['VSCode', 'Visual Studio', 'PyCharm', 'IntelliJ IDEA', 'Xcode']
 
         return languages, specialties, environments
 
@@ -47,7 +47,7 @@ class Attributes(Furiri443):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,visualstudio,fastapi,js,css,html,java,rust,ruby,swift,docker,bash,mongodb,flask,git,github,linux&perline=9"/>
+    <img src="https://skillicons.dev/icons?i=py,vscode,visualstudio,xcode,fastapi,js,css,html,java,rust,ruby,swift,docker,bash,mongodb,flask,git,github,macos,linux&perline=9"/>
   </a>
 </p>
 
