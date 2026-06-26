@@ -33,7 +33,7 @@ class Attributes(Furiri443):
     @property
     def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
         languages = {
-            'intermediate': ['Python',  'JavaScript'],
+            'intermediate': ['Python',  'JavaScript', 'Rust', 'Swift'],
             'learning': ['Java']
         }
         specialties = [ 'Backend Developer',]
